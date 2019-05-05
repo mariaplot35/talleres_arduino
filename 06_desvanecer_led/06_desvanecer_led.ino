@@ -15,9 +15,9 @@ void loop(){
     delay(10);                // Esperar 10ms para ver el cambio.
     }
 
-  for (i = 255; i = 0, i--){
-    analogWrite(LED, i);
-    delay(10);
+  for (i = 255; i = 0; i--){ //Loop desde 255 a 0 (desvanecer)
+    analogWrite(LED, i);     //Configuramos el brillo del LED   
+    delay(10);               //Esperar 10ms para ver el cambio.
     }
   
   }
