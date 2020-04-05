@@ -32,7 +32,7 @@ La Placa Arduino:  el hardware (componente físico) en el que contruyes tu proto
 
 Cuenta con:
 
-  _Un microcontrolado:_ que es un pequeño circuito que contiene un minichip que recibe y manda a ejecutar las instrucciones.
+  _Un microcontrolador:_ que es un pequeño circuito que contiene un minichip que recibe y manda a ejecutar las instrucciones.
 
   Unos “Strips” para conectar los sensores y “actuators”:
       Sensores: sencoramiento fisico en el mundo real que va a ser traducido a una computadora en un lenguaje que puede entender
