@@ -60,3 +60,25 @@ IDE, Integrated Development Environment: es el software en tu computadora que
 te permite construir y correer las intrucciones que seran ejecutadas en tu placa y que el prototipo interactue.
 
 Capítulo 4. Really getting started with Arduino.
+
+Capitulo 5. Advanced Input and Output
+
+ Otro tipo de sensores on/of
+
+_Momentary switch :_ este switch no es de accion prolongado, se ejecuta solo
+un estímulo inmediato, por ejemplo un timbre.
+
+_Toggle switch:_ este switch tiene la capacidad de recordar la acción hasta que
+otra interracción sea ejecutada, por ejemplo  un interruptor de luz.
+
+_Termostato:_ un switch que cambia la temperatura cuando alcanza un valor dado.
+
+_Switch magnetico:_ está compuesto por dos contactos que se atraen cuando se
+encuentran muy cerca.
+
+_Carpet switch,  tilt switch y sensores infrarojo_
+
+**Controlando pulsos de luz**
+
+Hasta ahora hemos visto que podemos encender y apagar un LED, sin embargo, al
+reducir el tiempo de apagado con la función de delay,  podemos regular el brillo 
