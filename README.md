@@ -36,4 +36,4 @@ en español para entender qué hace cada instrucción de código.
 
 Si tienes preguntas, aportes o comentarios sobre el material aquí generado,
 le invitamos a que nos contacte mediante un issue en este repositorio o 
-bien al correo ronny.hernandez@brenesii.com
+bien al correo mariamonterolara@gmail.com o  ronny.hernandez@brenesii.com
