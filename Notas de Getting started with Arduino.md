@@ -1,6 +1,6 @@
 Notas Resumen del libro de Mazzimo B.
 
-**Capítulo 1. Introducción**
+# **Capítulo 1. Introducción**
 
 ¿Qué es diseño interactivo?
 Diseño pensado para cualquier experiencia interactiva, alentando el diseño a
@@ -13,7 +13,7 @@ fidelidad de la interacción.
 ¿Qué es computación física? = “Physical Interaction Desing”
 Se refiere al uso de la electronica empleada en el dsieño y prototipado que tiene la capacidad de comunicarse a los humanos mediante sensores  y “actuators” que pueden ser controlados por medio instrucciones que corren dentro de un componente conocido como  microcontrolador (similar a una pequeña computadora)
 
-**Capítulo 2.  El estilo Arduino.**
+# **Capítulo 2.  El estilo Arduino.**
 
 La filosofía del Arduino se basa en la CREACIÓN DE MEJORES Y MÁS EFICIENTES PROTOTIPOS, esto se logra con la investigación y exploracion. Osea manos a la obra!
 
@@ -25,7 +25,7 @@ objetos que tengan interacciones sigificativas con otros seres u objetos,
 con la  meta de que cada uno sea más eficiente, simple y accesible.
 
 
-**Capítulo 3.  La plataforma Arduino**
+# **Capítulo 3.  La plataforma Arduino**
 
 Dos componentes básicos:
 La Placa Arduino:  el hardware (componente físico) en el que contruyes tu prototipo.
@@ -86,5 +86,11 @@ La comunicacion serial supone la propiedad de recibir y transmitir información 
 
   **Sensores complejos**
 Otro tipo de sensores son los que proveen informacion que no logramos medir mediante las funciones de digitalRead() o analogWrite() dado que usualmente cuentan con un circuito interno o inclusive con su propio microcontrolador, tal es el caso de sensores de temperatura, ultrasonicos, accelerometros. Por lo general son construidos de esta manera para proveer informacion mas precisa
+
+# ** Cap. 4 Iniciando "de verdad" con el Arduino**
+
+
+
+
 
  **Cap. 6 El Arduino Leonardo.**
