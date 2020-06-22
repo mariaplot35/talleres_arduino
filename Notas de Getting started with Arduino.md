@@ -49,9 +49,9 @@ Cuenta con:
    _IDE, Integrated Development Environment:_ es el software en tu computadora que
 te permite construir y correer las intrucciones que seran ejecutadas en tu placa y que el prototipo interactue.
 
-Capítulo 4. Really getting started with Arduino.
+**Capítulo 4. Really getting started with Arduino.**
 
-Capitulo 5. Advanced Input and Output
+**Capitulo 5. Advanced Input and Output**
 
  Otro tipo de sensores on/of
 
@@ -87,4 +87,4 @@ La comunicacion serial supone la propiedad de recibir y transmitir información 
   **Sensores complejos**
 Otro tipo de sensores son los que proveen informacion que no logramos medir mediante las funciones de digitalRead() o analogWrite() dado que usualmente cuentan con un circuito interno o inclusive con su propio microcontrolador, tal es el caso de sensores de temperatura, ultrasonicos, accelerometros. Por lo general son construidos de esta manera para proveer informacion mas precisa
 
- Cap. 6 El Arduino Leonardo.
+ **Cap. 6 El Arduino Leonardo.**
