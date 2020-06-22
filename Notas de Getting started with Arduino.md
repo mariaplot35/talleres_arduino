@@ -89,7 +89,46 @@ Otro tipo de sensores son los que proveen informacion que no logramos medir medi
 
 # ** Cap. 4 Iniciando "de verdad" con el Arduino**
 
+Este capítulo consiste en iniciar con el Arduino y los primeros ejemplos para trabajar con
+el código y conexiones.
 
+Primero un par de conceptos para entender mejor el comportamiento de un Arduino.
+
+ - Interactive device: Es un circuito electrónico que puede monitorear el ambiente a través
+   de sensores.
+ - Sensores: Componenter electrónicos que convierten mediciones del mundo real
+   en señales eléctricas.
+ - Un microcontrolador es una computadora muy sencilla que puede procesar
+   únicamente señales eléctricas.
+
+Cuando tenemos un microcontrolador, el proceso que conlleva es leer los 
+sensores y decidir cómo reaccionar. Esta reacción el controlada por el 
+microcontrolador y la reacción es llevada por los actuadores.
+
+## LED parpadeante
+
+Este ejercicio es el "Hola Mundo" del Arduino. Los conceptos básicos a 
+comprender son los siguientes:
+
+ - El LED contiene un lado negativo **catodo** que es la pata pequeña.
+ - La pata larga del LED es el **anodo** y es positiva.
+ - El código tiene 3 segmentos principales: donde se declaran variables, 
+   el **void setup** para configurar funciones de los pines y el **void loop**
+   que es la instrucción que se repite una y otra vez.
+
+Para correr el código, necesitamos llevarlo a la placa. Esto lo hacemos con
+los siguientes pasos:
+
+ - Primero verficamos el código con el botón que tiene un check de símbolo
+ - Si el código pasa la revisión, podemos cargar el código a la placa.
+ - Para cargar el código a la placa hacemos click en el botón con una flecha.
+ - Si tenemos el Arduino conectado correctamente en el puerto USB, el código
+   se cargará inmediatamente, el LED parpadeará y empezará a ejecutar las
+   instrucciones del código.
+
+Debemos de entender que al cargar el código al arduino, primero resetea la
+placa, haciendo que detenga todo lo que está haciendo y empiece a escuchar
+instrucciones que le llegan desde el USB
 
 
 
